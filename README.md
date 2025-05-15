@@ -1,5 +1,6 @@
 ## AI-Powered Personalized Learning Platform Proposal
 
+### Full Code at:https://huggingface.co/XinyueZhou/AI-Personalized-Learning-Platform
 ### I. Project Background
 
 This project was originally developed under the guidance of a teacher who, although supportive at first, faced limitations due to being new to the university. As a result, the project encountered several funding cuts, especially since a similar system already existed within the university for student use. However, what differentiates this version is the integration of artificial intelligence—an element I personally introduced to make the system more dynamic, intelligent, and future-focused.
